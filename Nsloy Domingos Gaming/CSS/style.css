@@ -1,0 +1,65 @@
+.elebarr{background:black ; border: black 2px; border-radius: 2px; color:black; display:inline}
+
+.ul{background: black; padding: 20px;border-radius: 15px;}
+
+li{display: inline; padding: 3px;}
+
+li a{color: white; text-decoration: none;}
+
+.sobre{float: right;}
+
+.youtubebotao :hover{ background: red;color: black; padding: 15px;font-family:Arial, Helvetica, sans-serif;cursor:grab}
+
+.twiterbotao :hover{background: blue;color: white; padding: 15px;font-family:Arial, Helvetica, sans-serif;cursor:grab}
+
+.facebookbotao :hover{background: blue;color: white; padding: 15px;font-family:Arial, Helvetica, sans-serif;cursor:grab}
+
+.instagrambotao :hover{background: rgb(234, 0, 255);color: white; padding: 15px;font-family:Arial, Helvetica, sans-serif;cursor:grab}
+
+.sobre :hover{ padding: 11px;font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;background: orange;}
+
+.nsloydomingosprion1{text-align: center; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS'; background: red;padding: 4px; border-radius: 15px; text-decoration: double;}
+
+.topo {background-color: rgb(27, 7, 136); padding: 20px; text-align: center; border-radius: 19px; margin-bottom: 0%;}
+
+.videoexperience{border: 10px blue;}
+
+body{background: rgb(8, 8, 78); margin: 16px;}
+
+.nsloyexperience2{float: right;}
+
+.img3{border-radius: 15px; width: 600px; height: auto; background-position: center;}
+
+.div1{background: fixed;background: rgba(0, 0, 0, 0.952);display: block; margin-top: 400px; padding: 8px; margin-bottom: 0px;}
+
+.p-da-div-1{color: azure;}
+
+.audioexperience1{float: initial;}
+
+
+.twiterbotao :active{
+    color: rgb(4, 4, 94); text-decoration: underline;
+}
+
+.instagrambotao :active{
+    color: purple; text-decoration: underline;
+}
+
+.youtubebotao :active{
+    color: rgb(255, 255, 255); text-decoration: underline;
+}
+
+.facebookbotao :active{
+    color: rgb(4, 4, 94); text-decoration: underline;
+}
+
+.sobre{float: right;background: black;
+    list-style-type: none;
+    padding:0;
+    margin:0;
+    overflow: hidden;}
+
+.sobre :active{
+    color: yellow;text-decoration: overline;}
+
+    .videoexperience3{float: right;}
